@@ -14,11 +14,11 @@ a:hover {
 }
 
 .title-bar{
-  background-image: linear-gradient(to right, #444 7%%, rgba(255, 255, 255, 0) 0%);
+  background-image: linear-gradient(to right, #444 20%, rgba(255, 255, 255, 0) 0%);
   background-position: bottom;
-  background-size: 30px 2px;
+  background-size: 10px 2px;
   background-repeat: repeat-x;
-  padding: 10px 5px;
+  padding: 15px 5px;
 }
 
 .date{
@@ -30,7 +30,6 @@ a:hover {
 .header-links{
   text-align: center;
   padding-top: 15px;
-  font-size: 15px;
 }
 
 .header-links:after {
@@ -40,15 +39,15 @@ a:hover {
 }
 
 .header-links a {
-  margin: 0 30px 0 30px;
+  margin: 0 10px
   display: inline-block;
   text-align: center;
 }
 
 .feature-article{
-  background-image: linear-gradient(to right, #444 7%, rgba(255, 255, 255, 0) 0%);
+  background-image: linear-gradient(to right, #444 20%, rgba(255, 255, 255, 0) 0%);
   background-position: bottom;
-  background-size: 30px 2px;
+  background-size: 10px 2px;
   background-repeat: repeat-x;
   padding: 15px 0px;
   margin: -5px;
@@ -56,18 +55,15 @@ a:hover {
 
 .feature-article p{
   padding: 0px 10px;
-  line-height: 1.5;
-  letter-spacing: 0.0625em;
 }
 
 .gram-events{
-  background-image: linear-gradient(to right, #444 7%, rgba(255, 255, 255, 0) 0%);
+  background-image: linear-gradient(to right, #444 20%, rgba(255, 255, 255, 0) 0%);
   background-position: bottom;
-  background-size: 30px 2px;
+  background-size: 10px 2px;
   background-repeat: repeat-x;
   padding: 15px;
   text-align: center;
-  margin-top: 10px;
 }
 
 .gram-events:after {
@@ -88,8 +84,6 @@ a:hover {
 
 .info{
   text-align: center;
-  line-height: 1.5;
-  letter-spacing: 0.0625em;
 }
 
 .footer{
